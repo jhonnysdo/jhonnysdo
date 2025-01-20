@@ -35,7 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnysdo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jhonnysdo&theme=neon&locale=pt_BR" alt="GitHub Streak" /></a>
+### Estatistica de sequência de commits
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jhonnysdo&theme=neon&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 
 ###
 
